@@ -170,14 +170,6 @@ For enquiries or demonstration access:
 
 
 
----
-
-### ✅ Why this README works for assessment
-- **Hyperlinked overview:** Direct links to your Wiki pages, poster, and website.  
-- **Repository guide:** Explains folder structure clearly.  
-- **Setup + usage:** Step-by-step instructions with dependencies and commands.  
-- **No login confusion:** Clarifies data handling and credentials.  
-- **Professional formatting:** Clean Markdown, ready for GitHub PDF export.  
 
 
 
