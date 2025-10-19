@@ -90,7 +90,7 @@ python main.py
 
 ---
 
-## 🎮 How to Play
+## How to Play
 
 From the Menu, choose:
 
@@ -114,7 +114,7 @@ After each round:
 
 - Return to menu (🏠), press L for leaderboard, or ESC to quit.
 
-## 👤 Login & Data
+## Login & Data
 
 - No login required.
 
@@ -122,7 +122,7 @@ After each round:
 
 - Camera input is processed live and not recorded or uploaded.
 
-## 🧠 Design & Evaluation Summary
+## Design & Evaluation Summary
 
 The prototype was refined through:
 
@@ -135,7 +135,7 @@ Integration of the Design for Location and Ethics for Interaction Design framewo
 📄 More detail in the Design Process Overview
 
 
-## ⚖️ Ethical Statement
+## Ethical Statement
 
 Inclusive and age-appropriate content that avoids stigmatizing language.
 
@@ -146,7 +146,7 @@ Testing conducted with teachers as ethical proxies for children.
 🔗 Read more in the Ethical Considerations Wiki Page
 
 
-## 👥 Contributors
+## Contributors
 Name	Role
 Your Name	UI & Gameplay Developer
 Teammate 1	Research & User Testing
@@ -157,12 +157,12 @@ University: The University of Queensland
 Course: DECO7XXX – Interaction Design Project Studio
 Semester: Semester 2, 2025
 
-## 🪧 License
+## License
 
 Released under the MIT License for educational and non-commercial use.
 See the LICENSE file for details.
 
-## 📫 Contact
+## Contact
 
 For enquiries or demonstration access:
 
