@@ -86,19 +86,21 @@ pip install pygame
 
  3. Run the prototype
 python main.py
-
+```
 
 ---
 
-🎮 How to Play
+## 🎮 How to Play
 
 From the Menu, choose:
 
+```
 ▶️ Start Game
 
 📊 Leaderboard
 
 ⚙️ Settings
+```
 
 Move in front of the camera to catch healthy foods as they fall.
 
@@ -106,21 +108,21 @@ Gain points for healthy choices and lose points for unhealthy ones.
 
 After each round:
 
-View Healthy Tips about diet and lifestyle.
+- View Healthy Tips about diet and lifestyle.
 
-Choose whether to save your score.
+- Choose whether to save your score.
 
-Return to menu (🏠), press L for leaderboard, or ESC to quit.
+- Return to menu (🏠), press L for leaderboard, or ESC to quit.
 
-👤 Login & Data
+## 👤 Login & Data
 
-No login required.
+- No login required.
 
-Scores are stored locally in the /data folder.
+- Scores are stored locally in the /data folder.
 
-Camera input is processed live and not recorded or uploaded.
+- Camera input is processed live and not recorded or uploaded.
 
-🧠 Design & Evaluation Summary
+## 🧠 Design & Evaluation Summary
 
 The prototype was refined through:
 
@@ -133,7 +135,7 @@ Integration of the Design for Location and Ethics for Interaction Design framewo
 📄 More detail in the Design Process Overview
 
 
-⚖️ Ethical Statement
+## ⚖️ Ethical Statement
 
 Inclusive and age-appropriate content that avoids stigmatizing language.
 
@@ -144,7 +146,7 @@ Testing conducted with teachers as ethical proxies for children.
 🔗 Read more in the Ethical Considerations Wiki Page
 
 
-👥 Contributors
+## 👥 Contributors
 Name	Role
 Your Name	UI & Gameplay Developer
 Teammate 1	Research & User Testing
@@ -155,12 +157,12 @@ University: The University of Queensland
 Course: DECO7XXX – Interaction Design Project Studio
 Semester: Semester 2, 2025
 
-🪧 License
+## 🪧 License
 
 Released under the MIT License for educational and non-commercial use.
 See the LICENSE file for details.
 
-📫 Contact
+## 📫 Contact
 
 For enquiries or demonstration access:
 
