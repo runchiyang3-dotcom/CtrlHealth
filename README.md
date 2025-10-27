@@ -155,7 +155,7 @@ Name |	Role
 - Jialiang He | Low-Fi/Hi-Fi prototype & Backend Development & Audio design 
 - Zhun Li	| Research & User Testing
 - Sizhe Li	| UI/UX Design & Frontend Development & Web Page & Audio design
-- Liyang Yu	| Documentation & QA Testing & Poster Creation & Presentation
+- Liyang Yu	| Documentation & QA Testing/Development & Poster Creation & Presentation
 
 University: The University of Queensland
 Course: DECO3500 – Interaction Design Project Studio
