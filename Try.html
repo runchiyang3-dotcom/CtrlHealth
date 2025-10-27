@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Prototype</title>
+  <style>
+    :root {
+      --bg: #111;
+      --fg: #eaeaea;
+      --accent: #ffb300;
+    }
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      background: var(--bg);
+      color: var(--fg);
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "PingFang SC", "Noto Sans CJK SC", "Microsoft YaHei", sans-serif;
+    }
+
+    .page {
+      min-height: 100dvh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .hero {
+      width: 100%;
+      display: block;
+      object-fit: cover;
+    }
+
+    .content {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 16px;
+      padding: 28px 16px 60px;
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 14px 28px;
+      border-radius: 999px;
+      text-decoration: none;
+      font-weight: 700;
+      letter-spacing: .3px;
+      border: 0;
+      background: var(--accent);
+      color: #111;
+      cursor: pointer;
+      transition: transform .08s ease, filter .2s ease;
+      user-select: none;
+    }
+    .btn:active { transform: translateY(1px) scale(0.995); }
+
+    @media (min-width: 768px) {
+      .content { padding: 40px 24px 100px; gap: 18px; }
+      .btn { font-size: 16px; }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <img src="page2.jpg" alt="封面图片" class="hero" />
+
+    <section class="content">
+      <a class="btn" href="main/main/main.exe" download>Download Demo!</a>
+    </section>
+  </main>
+</body>
+</html>

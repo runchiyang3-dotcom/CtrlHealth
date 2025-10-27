@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Full-Page Scrollable Image</title>
+    <style>
+      html, body {
+        margin: 0;
+        padding: 0;
+        background: #000; /* 背景为黑色，便于衬托白色A4 */
+      }
+      body {
+        overflow-y: auto; /* 允许上下滚动 */
+        overflow-x: hidden; /* 禁止水平滚动 */
+      }
+      img.fullpage {
+        display: block;
+        width: 100%;          /* 宽度占满屏幕 */
+        height: auto;         /* 保持比例 */
+        max-width: 100vw;     /* 避免溢出屏幕宽度 */
+        user-select: none;
+        -webkit-user-drag: none;
+      }
+    </style>
+  </head>
+  <body>
+    <img class="fullpage" src="page1.jpg" alt="More" />
+  </body>
+</html>
