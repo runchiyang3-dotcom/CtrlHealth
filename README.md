@@ -66,21 +66,29 @@ The repository contains **all documentation deliverables** required by the *Docu
 ### Setup Instructions
 ```bash
  1. Clone the repository
-git clone https://github.com/your-username/healthy-food-game.git
-cd healthy-food-game
+git clone https://github.com/runchiyang3-dotcom/CtrlHealth
+cd CtrlHealth
 
- 2. Install dependencies
+ 2. Check Release list & Download file
+gh release list --repo runchiyang3-dotcom/CtrlHealth
+gh release download v1.0 --repo runchiyang3-dotcom/CtrlHealth
+gh release download v1.0 --repo runchiyang3-dotcom/CtrlHealth --dir "C:\your folder path\Release"  (if download to a specific directory)
+
+ 3. Install dependencies
 pip install pygame
+pip install yolov8
+pip instal...
+(check what command line tells you to install)
 
  3. Run the prototype
 python main.py
 ```
 
 ### Simple Run 
-- at our github, find 'release/v1.0.0'
-- download main.zip
-- extract main.zip and find 'main.exe'
-- open main.exe
+- At our github, find 'Release/Healthy Food Game (Project)'
+- Download main.zip
+- Extract main.zip and find 'main.exe'
+- Open main.exe
 ---
 
 ## How to Play
