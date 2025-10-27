@@ -20,9 +20,9 @@ Developed for a university **interaction design studio**, the project demonstrat
 
 | Folder/File | Description |
 |--------------|-------------|
-| `main.py` | Main Python file — runs the playable prototype. |
-| `assets/` | Contains images, icons, and sound files used in the game. |
-| `data/` | Stores leaderboard and saved score data. |
+| `main.exe` | Main Game Application file — runs the playable prototype (in the release v1.0.0/main). |
+| `release/v1.0.0` | Contains final prototype source code. |
+| `web/` | Stores tradeshow webpage source. |
 | `docs/` | Project documentation and artefacts (see below). |
 | `wiki/` | Links to GitHub Wiki pages (Design Process & Ethical Considerations). |
 | `README.md` | This file — project overview and setup instructions. |
@@ -137,11 +137,11 @@ Testing conducted with teachers as ethical proxies for children.
 ## Contributors
 Name	Role
 Your Name |	UI & Gameplay Developer
-Runchi Yang | Backend Development & User Testing & Presentation
-Jialiang He | Backend Development & Presentation Slides
+Runchi Yang | Backend Development & User Testing & Research 
+Jialiang He | Low-Fi/Hi-Fi prototype & Backend Development & Audio design 
 Zhun Li	| Research & User Testing
-Sizhe Li	| UI Design & Web Page
-Liyang Yu	| Documentation & QA Testing & Poster Creation
+Sizhe Li	| Hi-Fi prototype & UI/UX Design & Web Page & Audio design
+Liyang Yu	| Documentation & QA Testing & Poster Creation & Presentation
 
 University: The University of Queensland
 Course: DECO3500 – Interaction Design Project Studio
