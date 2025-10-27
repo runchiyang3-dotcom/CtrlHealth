@@ -76,6 +76,11 @@ pip install pygame
 python main.py
 ```
 
+### Simple Run 
+- at our github, find 'release/v1.0.0'
+- download main.zip
+- extract main.zip and find 'main.exe'
+- open main.exe
 ---
 
 ## How to Play
