@@ -40,7 +40,7 @@ The repository contains **all documentation deliverables** required by the *Docu
 | **Storyboard** | Early storyboard showing concept flow and classroom context. | `/docs/storyboard/` |
 | **Design Framework** | Framework diagram showing how movement, collaboration, and feedback connect. | `/docs/design-framework/` |
 | **Low-Fidelity Prototype Links** | Early prototype builds and screenshots (pre-testing). | [UI Demo](https://www.figma.com/proto/31yXjiqHkNmPVL7ESsCP8E/Game-UI---Lower-Decks-2D-Game--Community-?node-id=168-11&p=f&t=VgJZ5cgmFG53D8m4-0&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=168%3A11&show-proto-sidebar=1) |
-| **Weekly Group Work Logs** | Summaries of in-class progress, decisions, and reflections. | `/docs/stand up` |
+| **Weekly Group Work Logs** | Summaries of in-class progress, decisions, and reflections. | `/docs/stand` |
 | **Exhibition Poster** | Final trade-show poster (Canva). | [Poster PDF](https://www.canva.com/design/DAG2PU7ki98/ndU87O2Kt77RrvE8lyQn2A/view?utm_content=DAG2PU7ki98&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8b8bdf4a83), [Brochure](https://www.canva.com/design/DAG2Ydbs5JY/Hkqw7fQAUhVjWfaQ6RbnXQ/view?utm_content=DAG2Ydbs5JY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h792bae7300)|
 | **Webpage / Trade Show Site** | Public webpage promoting the project and hosting demo materials. | [Visit Webpage](https://your-website-link.com) |
 
