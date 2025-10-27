@@ -135,8 +135,7 @@ Testing conducted with teachers as ethical proxies for children.
 
 
 ## Contributors
-Name	Role
-Your Name |	UI & Gameplay Developer
+Name |	Role
 - Runchi Yang | Backend Development & User Testing & Research 
 - Jialiang He | Low-Fi/Hi-Fi prototype & Backend Development & Audio design 
 - Zhun Li	| Research & User Testing
