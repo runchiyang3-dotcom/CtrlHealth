@@ -81,7 +81,7 @@ pip install yolov8
 pip instal...
 (check what command line tells you to install)
 
- 3. Run the prototype
+ 4. Run the prototype
 python main.py
 ```
 
