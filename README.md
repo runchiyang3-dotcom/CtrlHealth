@@ -90,6 +90,7 @@ python main.py
 - Download main.zip
 - Extract main.zip and find 'main.exe'
 - Open main.exe
+(make sure you have opened your camera and audios on your PC)
 ---
 
 ## How to Play
