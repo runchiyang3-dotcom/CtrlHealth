@@ -39,7 +39,7 @@ The repository contains **all documentation deliverables** required by the *Docu
 | **Ethical Considerations** | Ethics reflection using the *Ethics for Interaction Design* framework. | [View on Wiki](../../wiki/Ethical-Considerations) |
 | **Storyboard** | Early storyboard showing concept flow and classroom context. | `/docs/storyboard/` |
 | **Design Framework** | Framework diagram showing how movement, collaboration, and feedback connect. | `/docs/design-framework/` |
-| **Low-Fidelity Prototype Links** | Early prototype builds and screenshots (pre-testing). | `/docs/prototypes/` |
+| **Low-Fidelity Prototype Links** | Early prototype builds and screenshots (pre-testing). | [UI Demo](https://www.figma.com/proto/31yXjiqHkNmPVL7ESsCP8E/Game-UI---Lower-Decks-2D-Game--Community-?node-id=168-11&p=f&t=VgJZ5cgmFG53D8m4-0&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=168%3A11&show-proto-sidebar=1) |
 | **Weekly Group Work Logs** | Summaries of in-class progress, decisions, and reflections. | `/docs/weekly-logs/` |
 | **Exhibition Poster** | Final trade-show poster (Canva). | [Poster PDF](https://www.canva.com/design/DAG2PU7ki98/ndU87O2Kt77RrvE8lyQn2A/view?utm_content=DAG2PU7ki98&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8b8bdf4a83) |
 | **Webpage / Trade Show Site** | Public webpage promoting the project and hosting demo materials. | [Visit Webpage](https://your-website-link.com) |
