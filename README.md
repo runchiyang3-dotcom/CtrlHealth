@@ -5,7 +5,6 @@
 
 ## GitHub Repository
 **Repository URL:** [https://github.com/runchiyang3-dotcom/CtrlHealth)  
-*(Replace with your actual repository link before submission.)*
 
 ---
 
