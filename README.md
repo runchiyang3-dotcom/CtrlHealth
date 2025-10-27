@@ -21,7 +21,7 @@ Developed for a university **interaction design studio**, the project demonstrat
 | Folder/File | Description |
 |--------------|-------------|
 | `main.exe` | Main Game Application file — runs the playable prototype (in the release v1.0.0/main). |
-| `releases/v1.0.0` | Contains final prototype source code. |
+| `Releases/v1.0.0` | Contains final prototype source code. |
 | `web/` | Stores tradeshow webpage source. |
 | `docs/` | Project documentation and artefacts (see below). |
 | `wiki/` | Links to GitHub Wiki pages (Design Process & Ethical Considerations). |
@@ -86,7 +86,7 @@ python main.py
 ```
 
 ### Simple Run 
-- At our github, find 'releases/Healthy Food Game (Project)'
+- At our github, find 'Releases/Healthy Food Game (Project)'
 - Download main.zip
 - Extract main.zip and find 'main.exe'
 - Open main.exe
