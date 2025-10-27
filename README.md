@@ -72,7 +72,8 @@ cd CtrlHealth
  2. Check Release list & Download file
 gh release list --repo runchiyang3-dotcom/CtrlHealth
 gh release download v1.0 --repo runchiyang3-dotcom/CtrlHealth
-gh release download v1.0 --repo runchiyang3-dotcom/CtrlHealth --dir "C:\your folder path\Release"  (if download to a specific directory)
+gh release download v1.0 --repo runchiyang3-dotcom/CtrlHealth --dir "C:\your folder path\Release"
+(if download to a specific directory)
 
  3. Install dependencies
 pip install pygame
