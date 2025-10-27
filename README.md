@@ -4,7 +4,7 @@
 ---
 
 ## GitHub Repository
-**Repository URL:** [https://github.com/your-username/healthy-food-game](https://github.com/your-username/healthy-food-game)  
+**Repository URL:** [https://github.com/runchiyang3-dotcom/CtrlHealth)  
 *(Replace with your actual repository link before submission.)*
 
 ---
@@ -137,13 +137,15 @@ Testing conducted with teachers as ethical proxies for children.
 
 ## Contributors
 Name	Role
-Your Name	UI & Gameplay Developer
-Teammate 1	Research & User Testing
-Teammate 2	Visual Design & Poster Creation
-Teammate 3	Documentation & Webpage
+Your Name |	UI & Gameplay Developer
+Runchi Yang | Backend Development & User Testing & Presentation
+Jialiang He | Backend Development & Presentation Slides
+Zhun Li	| Research & User Testing
+Sizhe Li	| UI Design & Web Page
+Liyang Yu	| Documentation & QA Testing & Poster Creation
 
 University: The University of Queensland
-Course: DECO7XXX – Interaction Design Project Studio
+Course: DECO3500 – Interaction Design Project Studio
 Semester: Semester 2, 2025
 
 ## License
@@ -151,13 +153,6 @@ Semester: Semester 2, 2025
 Released under the MIT License for educational and non-commercial use.
 See the LICENSE file for details.
 
-## Contact
-
-For enquiries or demonstration access:
-
-📧 Email: your.team@email.com
-
-🌐 GitHub: https://github.com/your-username/healthy-food-game
 
 
 
