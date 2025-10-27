@@ -154,7 +154,7 @@ Name |	Role
 - Runchi Yang | Backend Development & User Testing & Research 
 - Jialiang He | Low-Fi/Hi-Fi prototype & Backend Development & Audio design 
 - Zhun Li	| Research & User Testing
-- Sizhe Li	| Hi-Fi prototype & UI/UX Design & Web Page & Audio design
+- Sizhe Li	| Hi-Fi prototype/UI Design & Frontend Development & Web Page & Audio design
 - Liyang Yu	| Documentation & QA Testing & Poster Creation & Presentation
 
 University: The University of Queensland
