@@ -137,11 +137,11 @@ Testing conducted with teachers as ethical proxies for children.
 ## Contributors
 Name	Role
 Your Name |	UI & Gameplay Developer
-Runchi Yang | Backend Development & User Testing & Research 
-Jialiang He | Low-Fi/Hi-Fi prototype & Backend Development & Audio design 
-Zhun Li	| Research & User Testing
-Sizhe Li	| Hi-Fi prototype & UI/UX Design & Web Page & Audio design
-Liyang Yu	| Documentation & QA Testing & Poster Creation & Presentation
+- Runchi Yang | Backend Development & User Testing & Research 
+- Jialiang He | Low-Fi/Hi-Fi prototype & Backend Development & Audio design 
+- Zhun Li	| Research & User Testing
+- Sizhe Li	| Hi-Fi prototype & UI/UX Design & Web Page & Audio design
+- Liyang Yu	| Documentation & QA Testing & Poster Creation & Presentation
 
 University: The University of Queensland
 Course: DECO3500 – Interaction Design Project Studio
